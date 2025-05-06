@@ -145,10 +145,31 @@ including writing research and making presentations in public. Native Spanish sp
 </table>
 
   
-  <h3>Master of Science in Computer Science</h3>
+  <h3>Finance Education</h3>
   <p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
   <p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
-  
+<table>
+  <tr>
+    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><strong>Master in Finance</strong></td>
+    <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Bachelor of business administration</strong></td>
+    <td valign="middle"><strong>CEU San Pablo University</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
+  </tr>
+</table>
+
   <h3>Bachelor of Science in Software Engineering</h3>
   <p><a href="https://university.edu">University Name</a> | Graduated: June 2015</p>
   <p><em>Graduated with honors (GPA: 3.8/4.0)</em></p>
@@ -212,27 +233,7 @@ including writing research and making presentations in public. Native Spanish sp
 
 
 # Finance Eductation
-<table>
-  <tr>
-    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>Master in Finance</strong></td>
-    <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>Bachelor of business administration</strong></td>
-    <td valign="middle"><strong>CEU San Pablo University</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
-  </tr>
-</table>
 
 # Working Experience
 -\

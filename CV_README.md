@@ -96,7 +96,7 @@ including writing research and making presentations in public. Native Spanish sp
 </div>
 
 <div>
-  <h2>🎓 Education</h2>
+  <h2>🎓Data Science Education</h2>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
@@ -145,7 +145,7 @@ including writing research and making presentations in public. Native Spanish sp
 </table>
 
   
-  <h3>Finance Education</h3>
+  <h2>🎓Finance Education</h2> <h2>
   <p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
   <p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
 <table>
@@ -226,13 +226,6 @@ including writing research and making presentations in public. Native Spanish sp
 </div>
 
 
-
-
-# Data Science & Programming Education
-
-
-
-# Finance Eductation
 
 
 # Working Experience

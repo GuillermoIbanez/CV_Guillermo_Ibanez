@@ -7,8 +7,8 @@
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-yourusername-blue?style=flat-square&logo=github"></a>
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-yourhandle-blue?style=flat-square&logo=twitter"></a>
   </p>
-  <p1>Data Analyst | Financial Analyst</p1>
-  <p>Location · Available for opportunities</p>
+  <h1>Data Analyst | Financial Analyst</h1>
+  <p>Zürich · Available for opportunities</p>
 </div>
 
 <div>

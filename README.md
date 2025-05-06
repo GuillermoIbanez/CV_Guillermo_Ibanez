@@ -6,7 +6,7 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 <table>
   <tr>
     <td valign="middle"><img src="edX_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle">**IBM edEX Data Science Python Certificates**</td>
+    <td valign="middle"><strong>IBM edEX Data Science Python Certificates</strong></td>
   </tr>
 </table>
 <br>

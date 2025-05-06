@@ -13,7 +13,7 @@
 <div>
   <h2>📋 Summary</h2>
   <p>
-    Senior Risk/Counterparty Credit analyst with experience in international banking Treasury Counterparty
+    ######Senior Risk/Counterparty Credit analyst with experience in international banking Treasury Counterparty
 Credit Risk and Research/Advisory roles. Strong grasp of financial and data analysis.
  Currently looking for a more transversal role where I can apply my technical expertise in financial &amp; risk
 analysis/financial products (such as insurance) and data analysis skills (python) while moving into a Risk

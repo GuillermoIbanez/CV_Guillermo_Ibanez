@@ -51,7 +51,7 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 # Finance Eductation
 <table>
   <tr>
-    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="50"></td>
     <td valign="middle"><strong>Master in Finance</strong></td>
     <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
   </tr>

@@ -100,11 +100,11 @@ including writing research and making presentations in public. Native Spanish sp
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
+    <td valign="middle"><strong>Data Science & AI Course (Constructor Academy)</strong></td>
   </tr>
 </table>
 
-Data Science & AI Course (Constructor Academy) Zurich, Switzerland
+ Data Science & AI Full Time in person Course 4 months Zurich, Switzerland | Graduated: May 2017</p>
 
 <strong>Data Analytics:</strong> Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making. Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash
 
@@ -112,6 +112,37 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
 <strong>DevOps:</strong> Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other. Tools used: GIT · GitLab · Docker · AWS
 
+<table>
+  <tr>
+    <td valign="middle"><img src="images_CV/edX_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><strong>IBM edEX Data Science Python Certificates</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Visualizing Data with Python</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Python for Data Science Project</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Python Basics for Data Science</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for The Data Science Method</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Data Science Tools</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Introduction to Data Science</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="images_CV/code_academy_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Codecademy Learn Data Analysis with Pandas Course</strong></td>
+  </tr>
+</table>
 
   
   <h3>Master of Science in Computer Science</h3>
@@ -178,37 +209,7 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
 # Data Science & Programming Education
 
-<table>
-  <tr>
-    <td valign="middle"><img src="edX_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>IBM edEX Data Science Python Certificates</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for Visualizing Data with Python</td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for Python for Data Science Project</td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for Python Basics for Data Science</td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for The Data Science Method</td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for Data Science Tools</td>
-  </tr>
-  <tr>
-    <td colspan="2">IBM Certificate for Introduction to Data Science</td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td valign="middle"><img src="code_academy_logo.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>Codecademy Learn Data Analysis with Pandas Course</strong></td>
-  </tr>
-</table>
 
 # Finance Eductation
 <table>

@@ -413,3 +413,267 @@
   <p><em>This CV is maintained in HTML and rendered directly in GitHub. Last updated: May 2025</em></p>
   <a href="https://github.com/yourusername/cv/actions"><img src="https://img.shields.io/github/workflow/status/yourusername/cv/Update?style=flat-square&label=CV%20Status" alt="CV Status"></a>
 </div>
+
+# option 3 CV
+
+<!-- Modern Terminal-Style GitHub README.md CV Template -->
+<!-- This creates a terminal/code-inspired CV design -->
+
+<div align="center">
+  <pre style="text-align: center; background-color: #282c34; padding: 20px; border-radius: 10px; display: inline-block;">
+  ┌─────────────────────────────────────────┐
+  │                                         │
+  │             <span style="color: #61afef;">JOHN DOE</span>              │
+  │         <span style="color: #98c379;">SOFTWARE ENGINEER</span>          │
+  │                                         │
+  └─────────────────────────────────────────┘
+  </pre>
+</div>
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-d14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-yourprofile-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-56a832?style=flat-square&logo=safari&logoColor=white"/></a>
+</div>
+
+<br>
+
+<!-- Terminal window style sections -->
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ whoami</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117;">
+    <p>Experienced software engineer with <strong>X years</strong> of expertise in building scalable applications and leading development teams. Passionate about clean code, optimized solutions, and mentoring junior developers. Strong background in [specific technologies] with a focus on [specific domain].</p>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ cat skills.json</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117; font-family: monospace;">
+    <pre style="background-color: #0d1117; color: #c9d1d9; overflow-x: auto;">{
+  "languages": [
+    "JavaScript/TypeScript",
+    "Python",
+    "Go",
+    "SQL",
+    "HTML/CSS"
+  ],
+  "frameworks": [
+    "React",
+    "Node.js",
+    "Express",
+    "Django",
+    "Next.js"
+  ],
+  "tools": [
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "CI/CD Pipelines"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch"
+  ],
+  "concepts": [
+    "Microservices",
+    "RESTful APIs",
+    "GraphQL",
+    "Agile Methodologies",
+    "System Design"
+  ]
+}</pre>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ ls -la experience/</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117;">
+    <div style="margin-bottom: 24px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <h3 style="margin: 0;">Senior Software Engineer</h3>
+        <code>2020 - Present</code>
+      </div>
+      <div>
+        <a href="https://company.com" style="color: #58a6ff;">Company Name</a> | Location
+      </div>
+      <ul>
+        <li>Led the development of a microservices architecture that improved system scalability by 40%</li>
+        <li>Managed a team of 5 developers, implementing Agile methodologies</li>
+        <li>Designed and implemented a CI/CD pipeline that reduced deployment time by 60%</li>
+        <li>Optimized database queries resulting in a 30% performance improvement</li>
+      </ul>
+      <div>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">React</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Node.js</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">AWS</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Kubernetes</code>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 24px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <h3 style="margin: 0;">Software Developer</h3>
+        <code>2017 - 2020</code>
+      </div>
+      <div>
+        <a href="https://previouscompany.com" style="color: #58a6ff;">Previous Company</a> | Location
+      </div>
+      <ul>
+        <li>Developed and maintained RESTful APIs serving 1M+ daily requests</li>
+        <li>Implemented automated testing that increased code coverage to 85%</li>
+        <li>Collaborated with UX/UI designers to implement responsive web interfaces</li>
+      </ul>
+      <div>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">JavaScript</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Python</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Django</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">PostgreSQL</code>
+      </div>
+    </div>
+    
+    <div>
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <h3 style="margin: 0;">Junior Developer</h3>
+        <code>2015 - 2017</code>
+      </div>
+      <div>
+        <a href="https://startupcompany.com" style="color: #58a6ff;">Startup Company</a> | Location
+      </div>
+      <ul>
+        <li>Contributed to frontend development using HTML, CSS, and JavaScript</li>
+        <li>Assisted in database design and implementation</li>
+        <li>Participated in code reviews and quality assurance processes</li>
+      </ul>
+      <div>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">HTML/CSS</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">JavaScript</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">MySQL</code>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ cat education.txt</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117; font-family: monospace;">
+    <div style="margin-bottom: 16px;">
+      <span style="color: #e6c07b;">MASTER OF SCIENCE</span> in Computer Science
+      <br>
+      <span style="color: #58a6ff;"><a href="https://university.edu" style="color: #58a6ff;">University Name</a></span> | 2015 - 2017
+      <ul>
+        <li>GPA: 3.9/4.0</li>
+        <li>Thesis: "Advanced Techniques in Machine Learning"</li>
+        <li>Research Assistant in the AI Lab</li>
+      </ul>
+    </div>
+    
+    <div>
+      <span style="color: #e6c07b;">BACHELOR OF SCIENCE</span> in Software Engineering
+      <br>
+      <span style="color: #58a6ff;"><a href="https://university.edu" style="color: #58a6ff;">University Name</a></span> | 2011 - 2015
+      <ul>
+        <li>GPA: 3.8/4.0</li>
+        <li>Dean's List: 7 consecutive semesters</li>
+        <li>President of Software Engineering Club</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ git clone projects/</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117;">
+    <div style="margin-bottom: 24px;">
+      <h3><a href="https://github.com/yourusername/project1" style="color: #58a6ff;">Project Name</a></h3>
+      <p>A brief description of the project highlighting key features, implementation details, and technologies used. Explain the problems it solves and your role in developing it.</p>
+      <div>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">React</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Node.js</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">MongoDB</code>
+      </div>
+      <ul>
+        <li>Key achievement or feature #1</li>
+        <li>Key achievement or feature #2</li>
+        <li>Key achievement or feature #3</li>
+      </ul>
+    </div>
+    
+    <div>
+      <h3><a href="https://github.com/yourusername/project2" style="color: #58a6ff;">Another Project</a></h3>
+      <p>A brief description of another significant project with emphasis on technical challenges overcome and solutions implemented.</p>
+      <div>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Python</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">Django</code>
+        <code style="background-color: #161b22; padding: 2px 6px; border-radius: 3px; margin-right: 4px;">PostgreSQL</code>
+      </div>
+      <ul>
+        <li>Key achievement or feature #1</li>
+        <li>Key achievement or feature #2</li>
+        <li>Key achievement or feature #3</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ ls certifications/</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117;">
+    <ul>
+      <li><strong>AWS Certified Solutions Architect</strong> - Amazon Web Services (2023)</li>
+      <li><strong>Certified Kubernetes Administrator</strong> - Cloud Native Computing Foundation (2022)</li>
+      <li><strong>Google Professional Cloud Developer</strong> - Google Cloud (2021)</li>
+    </ul>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; margin-bottom: 16px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ echo languages.txt</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117;">
+    <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+      <div style="background-color: #238636; color: white; padding: 4px 12px; border-radius: 12px;">English (Native)</div>
+      <div style="background-color: #238636; color: white; padding: 4px 12px; border-radius: 12px;">Spanish (Fluent)</div>
+      <div style="background-color: #9e6a03; color: white; padding: 4px 12px; border-radius: 12px;">French (Intermediate)</div>
+      <div style="background-color: #da3633; color: white; padding: 4px 12px; border-radius: 12px;">German (Basic)</div>
+    </div>
+  </div>
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden;">
+  <div style="background-color: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d;">
+    <span style="color: #c9d1d9; font-family: monospace;">$ echo "contact me"</span>
+  </div>
+  <div style="padding: 16px; background-color: #0d1117; text-align: center;">
+    <p>Feel free to reach out for collaboration opportunities or just to connect!</p>
+    <div>
+      <a href="mailto:your.email@example.com" style="color: #58a6ff; text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/%F0%9F%93%A7-Email-d14836?style=for-the-badge" alt="Email" style="vertical-align: middle;">
+      </a>
+      <a href="https://linkedin.com/in/yourprofile" style="color: #58a6ff; text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/%F0%9F%93%B1-LinkedIn-0077b5?style=for-the-badge" alt="LinkedIn" style="vertical-align: middle;">
+      </a>
+      <a href="https://twitter.com/yourhandle" style="color: #58a6ff; text-decoration: none; margin: 0 8px;">
+        <img src="https://img.shields.io/badge/%F0%9F%90%A6-Twitter-1da1f2?style=for-the-badge" alt="Twitter" style="vertical-align: middle;">
+      </a>
+    </div>
+    <br>
+    <p style="font-size: 12px; color: #8b949e;">This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
+  </div>
+</div>

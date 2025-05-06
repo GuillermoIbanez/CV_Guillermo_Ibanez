@@ -13,7 +13,23 @@
 <div>
   <h2>📋 Summary</h2>
   <p>
-    A passionate [Your Specialty] with [X years] of experience in [key areas]. Proven track record in [specific achievements]. Seeking opportunities to [your goal].
+    Senior Risk/Counterparty Credit analyst with experience in international banking Treasury Counterparty
+Credit Risk and Research/Advisory roles. Strong grasp of financial and data analysis.
+ Currently looking for a more transversal role where I can apply my technical expertise in financial &amp; risk
+analysis/financial products (such as insurance) and data analysis skills (python) while moving into a Risk
+Finance role within a large non-banking top international company in my home city of Madrid.
+ Excellent communication skills in English, including presenting risk assessments and research findings to
+credit/financial risk committees and large audiences.
+ Proven ability to conduct in-depth research and create comprehensive risk reports from scratch on diverse
+risk/financial topics for client facing colleagues and senior management.
+ Data management/analysis and visualization skills using Python programming (including Machine
+Learning for data segmentation, Natural Language models, AI large models implementation). SQL
+programming skills and experience using Power BI and Eikon.
+ Outside-the-box thinker. Big interest to try new approaches on data analysis, presentations content and
+storytelling to colleagues and other stakeholders.
+ Experience planning and coordinating reports with colleagues from different locations and divisions.
+ Used to working in international environments, with 9 years of experience working fully in English abroad
+including writing research and making presentations in public. Native Spanish speaker. Fluent in French.
   </p>
 </div>
 

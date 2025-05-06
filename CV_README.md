@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/guillermo-ibanez-4626355a"><img src="https://img.shields.io/badge/LinkedIn-Guillermo Ibanez-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://github.com/GuillermoIbanez"><img src="https://img.shields.io/badge/GitHub-GuillermoIbanez-blue?style=flat-square&logo=github"></a>
   </p>
-  <h1>Data Analyst | Financial Analyst</h1>
+  <h1>Data & Financial Analyst</h1>
   <p>. Zürich ·</p>
 </div>
 

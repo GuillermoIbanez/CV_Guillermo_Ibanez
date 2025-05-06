@@ -167,7 +167,7 @@ allocation process.</td>
   <p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
 <table>
   <tr>
-    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="50"></td>
     <td valign="middle"><strong>Master in Finance</strong></td>
     <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
   </tr>
@@ -178,7 +178,7 @@ allocation process.</td>
 
 <table>
   <tr>
-    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="85"></td>
     <td valign="middle"><strong>Bachelor of business administration</strong></td>
     <td valign="middle"><strong>CEU San Pablo University</strong></td>
   </tr>

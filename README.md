@@ -6,8 +6,9 @@
     <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
   </tr>
 </table>
-<br>
 Data Science & AI Course (Constructor Academy) Zurich, Switzerland
+<br>
+
 
 <table>
   <tr>

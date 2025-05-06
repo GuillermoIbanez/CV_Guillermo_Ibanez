@@ -8,7 +8,7 @@
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-yourhandle-blue?style=flat-square&logo=twitter"></a>
   </p>
   <h1>Data Analyst | Financial Analyst</h1>
-  <p>Zürich · Available for opportunities</p>
+  <p>. Zürich ·</p>
 </div>
 
 <div>

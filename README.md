@@ -41,11 +41,14 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Codecademy Learn Data Analysis with Pandas Course</strong></td>
+  </tr>
+</table>
 
-## Codeacademy Data Course
-Learn Data Analysis with Pandas Course (Codecademy)
-
-## Finance formal eductation
+# Finance Eductation
 Msc Finance\
 BBA Business Administration\
 

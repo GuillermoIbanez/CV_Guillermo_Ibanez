@@ -1,7 +1,7 @@
 # Data & Financial Analyst
 
 ## Data Science & AI Full Time in person Course 4 months
-![Alt text for your image](CV_Guillermo_Ibanez/images_CV//edX_logo.png)\ 
+![Alt text for your image](edX_logo.png)\ 
 Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
 ## IBM edEX Data Science Python Certificates

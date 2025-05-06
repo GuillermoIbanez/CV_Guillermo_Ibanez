@@ -15,14 +15,25 @@
     <td valign="middle"><img src="edX_logo.png" alt="Alt text for your image" width="50"></td>
     <td valign="middle"><strong>IBM edEX Data Science Python Certificates</strong></td>
   </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Visualizing Data with Python</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Python for Data Science Project</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Python Basics for Data Science</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for The Data Science Method</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Data Science Tools</td>
+  </tr>
+  <tr>
+    <td colspan="2">IBM Certificate for Introduction to Data Science</td>
+  </tr>
 </table>
-IBM Certificate for Visualizing Data with Python<br>
-IBM Certificate for Python for Data Science Project<br>
-IBM Certificate for Python Basics for Data Science<br>
-IBM Certificate for The Data Science Method<br>
-IBM Certificate for Data Science Tools<br>
-IBM Certificate for Introduction to Data Science
-<br>
 
 
 ## Codeacademy Data Course

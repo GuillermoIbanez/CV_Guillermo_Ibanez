@@ -43,16 +43,25 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
 <table>
   <tr>
-    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="code_academy_logo.png" alt="Alt text for your image" width="85"></td>
     <td valign="middle"><strong>Codecademy Learn Data Analysis with Pandas Course</strong></td>
   </tr>
 </table>
 
 # Finance Eductation
-Msc Finance\
+<table>
+  <tr>
+    <td valign="middle"><img src="master_finance_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Master in Finance</strong></td>
+    <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
+  </tr>
+</table>
+
+
+
 BBA Business Administration\
 
-### Working Experience
+# Working Experience
 -UBS (Switzerland)\
 -AIB (Allied Irish Banks)\
 -Deutsche Bank\

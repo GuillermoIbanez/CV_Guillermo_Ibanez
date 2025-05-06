@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="75"></td>
+    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
     <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
   </tr>
   <tr>

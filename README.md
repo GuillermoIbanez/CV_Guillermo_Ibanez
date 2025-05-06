@@ -3,7 +3,7 @@
 ## Data Science & AI Full Time in person Course 4 months
 Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
-## <img src="edX_logo.png" alt="Alt text for your image" width="100"> IBM edEX Data Science Python Certificates
+## <img src="edX_logo.png" alt="Alt text for your image" width="50"> IBM edEX Data Science Python Certificates
 IBM Certificate for Visualizing Data with Python\ 
 IBM Certificate for Python for Data Science Project\ 
 IBM Certificate for Python Basics for Data Science\

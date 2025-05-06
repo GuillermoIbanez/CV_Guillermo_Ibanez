@@ -1,5 +1,6 @@
 # Data & Financial Analyst
 
+## Data Science & Programming Education
 <table>
   <tr>
     <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
@@ -9,6 +10,16 @@
     <td colspan="2">Data Science & AI Course (Constructor Academy) Zurich, Switzerland</td>
   </tr>
 </table>
+
+# Topics Covered
+Data Analytics: Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making.
+ Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash
+
+Machine Learning & Artificial Intelligence: Train computer algorithms to learn patterns and make predictions or decisions without explicit instructions, based on data inputs.
+ Tools used: ChatGPT · OpenAI · LangChain · Scikit-learn · SciPy · TensorFlow · PyCaret
+
+DevOps: Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other.
+ Tools used: GIT · GitLab · Docker · AWS
 
 <table>
   <tr>

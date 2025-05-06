@@ -1015,4 +1015,141 @@
   <p style="font-size: 12px; color: #666;">This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025</p>
 </div>
 
+# option 5 which is a reviewed option 4
 
+<h1 align="center">YOUR NAME</h1>
+<p align="center"><em>Software Developer • Data Scientist • Product Engineer</em></p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-4285F4?style=flat-square&logo=google-chrome" alt="Website"></a>
+</p>
+
+## 👨‍💻 About Me
+
+Dedicated and results-driven professional with X+ years of experience in software development and data analysis. Passionate about creating elegant solutions to complex problems. Skilled in [key areas] with a proven track record of [notable achievements]. Currently seeking opportunities to [your goal].
+
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <td>
+      <strong>Languages</strong>
+      <ul>
+        <li>JavaScript / TypeScript</li>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>HTML / CSS</li>
+        <li>Java</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Frameworks & Libraries</strong>
+      <ul>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>Django</li>
+        <li>TensorFlow</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Tools & Platforms</strong>
+      <ul>
+        <li>Git</li>
+        <li>Docker</li>
+        <li>AWS</li>
+        <li>CI/CD</li>
+        <li>Kubernetes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 💼 Experience
+
+### Senior Software Engineer
+**[Company Name](https://company.com)** • Location • 2020 - Present
+
+- Led the development of a microservices architecture that improved system reliability by 40%
+- Managed a team of 5 developers, implementing Agile methodologies that increased team velocity by 25%
+- Architected and implemented a cloud-based solution that reduced operational costs by 30%
+- Collaborated with product teams to deliver features that increased user engagement by 15%
+
+**Technologies:** React, Node.js, AWS, PostgreSQL
+
+### Software Developer
+**[Previous Company](https://previouscompany.com)** • Location • 2017 - 2020
+
+- Developed RESTful APIs that served 10,000+ daily users
+- Reduced application load time by 30% through performance optimization
+- Implemented automated testing frameworks that increased code coverage to 85%
+
+**Technologies:** JavaScript, Python, Django, MySQL
+
+### Junior Developer
+**[Startup Company](https://startupcompany.com)** • Location • 2015 - 2017
+
+- Assisted in developing frontend components using React
+- Created internal tools that increased team productivity by 20%
+- Participated in code reviews and quality assurance processes
+
+**Technologies:** HTML/CSS, JavaScript, React
+
+## 🎓 Education
+
+### Master of Science in Computer Science
+**[University Name](https://university.edu)** • 2015 - 2017
+
+- GPA: 3.9/4.0
+- Thesis: "Advanced Techniques in Machine Learning"
+- Research Assistant in AI Lab
+
+### Bachelor of Science in Software Engineering
+**[University Name](https://university.edu)** • 2011 - 2015
+
+- GPA: 3.8/4.0
+- Dean's List: 7 consecutive semesters
+- Software Engineering Club President
+
+## 🚀 Projects
+
+### [Project Name](https://github.com/yourusername/project1)
+
+A robust platform that [describe key functionality]. Implemented with a focus on scalability and performance.
+
+- Implemented real-time notifications using WebSockets
+- Deployed using CI/CD pipeline with GitHub Actions
+- Achieved 99.9% uptime with load balancing
+
+**Technologies:** React, Node.js, MongoDB
+
+### [Another Project](https://github.com/yourusername/project2)
+
+An innovative solution for [describe key functionality]. Designed to optimize user experience and data processing efficiency.
+
+- Processed 1TB+ of data using distributed computing
+- Reduced processing time by 60% using parallel algorithms
+- Implemented ML models with 92% accuracy
+
+**Technologies:** Python, TensorFlow, AWS
+
+## 🏆 Certifications
+
+- **AWS Certified Solutions Architect** - Amazon Web Services (2023)
+- **Google Cloud Professional Developer** - Google Cloud (2022)
+- **Microsoft Certified: Azure Developer** - Microsoft (2021)
+
+## 🌐 Languages
+
+- **English:** Native
+- **Spanish:** Fluent
+- **French:** Intermediate
+- **German:** Basic
+
+---
+
+<p align="center">Feel free to reach out for collaboration opportunities or just to connect!</p>
+<p align="center"><em>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025</em></p>

@@ -99,7 +99,7 @@ including writing research and making presentations in public. Native Spanish sp
   <h2>🎓 Education</h2>
 <table>
   <tr>
-    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
     <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
   </tr>
 </table>

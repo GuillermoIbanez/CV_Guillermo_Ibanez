@@ -57,9 +57,16 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
   </tr>
 </table>
 
-
-
-BBA Business Administration\
+<table>
+  <tr>
+    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><strong>Bachelor of business administration</strong></td>
+    <td valign="middle"><strong>CEU San Pablo University</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
+  </tr>
+</table>
 
 # Working Experience
 -UBS (Switzerland)\

@@ -62,7 +62,7 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 
 <table>
   <tr>
-    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><img src="BBA_logo.png" alt="Alt text for your image" width="85"></td>
     <td valign="middle"><strong>Bachelor of business administration</strong></td>
     <td valign="middle"><strong>CEU San Pablo University</strong></td>
   </tr>
@@ -72,7 +72,25 @@ Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 </table>
 
 # Working Experience
--UBS (Switzerland)\
+-\
+<table>
+  <tr>
+    <td valign="middle"><img src="UBS_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>UBS (Switzerland)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,
+publishing reports to clients/other stakeholders on a regular basis. Experience interacting regularly with senior
+management coordinating projects/reports across multidisciplinary and international teams.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Interact with buy-side and sell-side investment professionals and present my recommendations and credit/risk
+views to colleagues and clients alike. Present my research views in internal meetings in support of UBS&#39;s asset
+allocation process.</td>
+  </tr>  
+</table>
+
+
 -AIB (Allied Irish Banks)\
 -Deutsche Bank\
 -Credit Suisse\

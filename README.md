@@ -7,7 +7,6 @@
   </tr>
 </table>
 Data Science & AI Course (Constructor Academy) Zurich, Switzerland
-<br>
 
 <table>
   <tr>

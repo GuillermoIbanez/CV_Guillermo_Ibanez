@@ -677,3 +677,342 @@
     <p style="font-size: 12px; color: #8b949e;">This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
   </div>
 </div>
+
+
+# option 4 CV
+
+<!-- Card-Based GitHub README.md CV Template -->
+<!-- This template uses a modern card-based approach with subtle gradients -->
+
+<div align="center">
+  <h1>YOUR NAME</h1>
+  <p><em>Software Developer • Data Scientist • Product Engineer</em></p>
+  
+  <div>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-36465D?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/yourusername">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://yourwebsite.com">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<!-- Profile Section -->
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 20px;">
+    <h2 style="margin-top: 0;">👋 ABOUT ME</h2>
+  </div>
+  <div style="padding: 20px;">
+    <p>Dedicated and results-driven professional with X+ years of experience in software development and data analysis. Passionate about creating elegant solutions to complex problems. Skilled in [key areas] with a proven track record of [notable achievements]. Currently seeking opportunities to [your goal].</p>
+  </div>
+</div>
+
+<br>
+
+<!-- Skills Section -->
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(135deg, #6a11cb, #2575fc); color: white; padding: 20px;">
+    <h2 style="margin-top: 0;">💻 SKILLS</h2>
+  </div>
+  <div style="padding: 20px; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
+    <!-- Skill Card 1 -->
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px;">
+      <h3 style="margin-top: 0;">Languages</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">JavaScript</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Python</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">TypeScript</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">SQL</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">HTML/CSS</span>
+      </div>
+    </div>
+    
+    <!-- Skill Card 2 -->
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px;">
+      <h3 style="margin-top: 0;">Frameworks</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">React</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Node.js</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Django</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Express</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Angular</span>
+      </div>
+    </div>
+    
+    <!-- Skill Card 3 -->
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px;">
+      <h3 style="margin-top: 0;">Tools & Platforms</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">AWS</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Docker</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Git</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">CI/CD</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Kubernetes</span>
+      </div>
+    </div>
+    
+    <!-- Skill Card 4 -->
+    <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px;">
+      <h3 style="margin-top: 0;">Databases</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">PostgreSQL</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">MongoDB</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">MySQL</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Redis</span>
+        <span style="background-color: #f1f1f1; padding: 5px 10px; border-radius: 15px; font-size: 14px;">Elasticsearch</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<!-- Experience Section -->
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(135deg, #11998e, #38ef7d); color: white; padding: 20px;">
+    <h2 style="margin-top: 0;">💼 EXPERIENCE</h2>
+  </div>
+  <div style="padding: 20px;">
+    <!-- Job 1 -->
+    <div style="margin-bottom: 30px; position: relative;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+        <div>
+          <h3 style="margin: 0;">Senior Software Engineer</h3>
+          <div><a href="https://company.com" style="text-decoration: none; color: #0366d6;">Company Name</a> • Location</div>
+        </div>
+        <div style="background-color: #e3f2fd; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2020 - Present</div>
+      </div>
+      <ul style="margin-top: 10px;">
+        <li>Led the development of a microservices architecture that improved system reliability by 40%</li>
+        <li>Managed a team of 5 developers, implementing Agile methodologies that increased team velocity by 25%</li>
+        <li>Architected and implemented a cloud-based solution that reduced operational costs by 30%</li>
+        <li>Collaborated with product teams to deliver features that increased user engagement by 15%</li>
+      </ul>
+      <div style="margin-top: 10px;">
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">React</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">Node.js</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">AWS</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">PostgreSQL</span>
+      </div>
+    </div>
+    
+    <!-- Job 2 -->
+    <div style="margin-bottom: 30px; position: relative;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+        <div>
+          <h3 style="margin: 0;">Software Developer</h3>
+          <div><a href="https://previouscompany.com" style="text-decoration: none; color: #0366d6;">Previous Company</a> • Location</div>
+        </div>
+        <div style="background-color: #e3f2fd; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2017 - 2020</div>
+      </div>
+      <ul style="margin-top: 10px;">
+        <li>Developed RESTful APIs that served 10,000+ daily users</li>
+        <li>Reduced application load time by 30% through performance optimization</li>
+        <li>Implemented automated testing frameworks that increased code coverage to 85%</li>
+      </ul>
+      <div style="margin-top: 10px;">
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">JavaScript</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">Python</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">Django</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">MySQL</span>
+      </div>
+    </div>
+    
+    <!-- Job 3 -->
+    <div style="position: relative;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+        <div>
+          <h3 style="margin: 0;">Junior Developer</h3>
+          <div><a href="https://startupcompany.com" style="text-decoration: none; color: #0366d6;">Startup Company</a> • Location</div>
+        </div>
+        <div style="background-color: #e3f2fd; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2015 - 2017</div>
+      </div>
+      <ul style="margin-top: 10px;">
+        <li>Assisted in developing frontend components using React</li>
+        <li>Created internal tools that increased team productivity by 20%</li>
+        <li>Participated in code reviews and quality assurance processes</li>
+      </ul>
+      <div style="margin-top: 10px;">
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">HTML/CSS</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">JavaScript</span>
+        <span style="background-color: #e8f5e9; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">React</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<!-- Two-column layout for Education and Projects -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+  <!-- Education Section -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+    <div style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); color: white; padding: 20px;">
+      <h2 style="margin-top: 0;">🎓 EDUCATION</h2>
+    </div>
+    <div style="padding: 20px;">
+      <!-- Degree 1 -->
+      <div style="margin-bottom: 20px;">
+        <h3 style="margin: 0;">Master of Science in Computer Science</h3>
+        <div style="margin: 5px 0;">
+          <a href="https://university.edu" style="text-decoration: none; color: #0366d6;">University Name</a>
+        </div>
+        <div style="background-color: #fff3e0; display: inline-block; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin: 5px 0;">2015 - 2017</div>
+        <ul>
+          <li>GPA: 3.9/4.0</li>
+          <li>Thesis: "Advanced Techniques in Machine Learning"</li>
+          <li>Research Assistant in AI Lab</li>
+        </ul>
+      </div>
+      
+      <!-- Degree 2 -->
+      <div>
+        <h3 style="margin: 0;">Bachelor of Science in Software Engineering</h3>
+        <div style="margin: 5px 0;">
+          <a href="https://university.edu" style="text-decoration: none; color: #0366d6;">University Name</a>
+        </div>
+        <div style="background-color: #fff3e0; display: inline-block; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin: 5px 0;">2011 - 2015</div>
+        <ul>
+          <li>GPA: 3.8/4.0</li>
+          <li>Dean's List: 7 consecutive semesters</li>
+          <li>Software Engineering Club President</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Projects Section -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+    <div style="background: linear-gradient(135deg, #a18cd1, #fbc2eb); color: white; padding: 20px;">
+      <h2 style="margin-top: 0;">🚀 PROJECTS</h2>
+    </div>
+    <div style="padding: 20px;">
+      <!-- Project 1 -->
+      <div style="margin-bottom: 25px;">
+        <h3 style="margin: 0;">
+          <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: #0366d6;">Project Name</a>
+        </h3>
+        <p>A robust platform that [describe key functionality]. Implemented with a focus on scalability and performance.</p>
+        <div style="margin: 10px 0;">
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">React</span>
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">Node.js</span>
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">MongoDB</span>
+        </div>
+        <ul>
+          <li>Implemented real-time notifications using WebSockets</li>
+          <li>Deployed using CI/CD pipeline with GitHub Actions</li>
+          <li>Achieved 99.9% uptime with load balancing</li>
+        </ul>
+      </div>
+      
+      <!-- Project 2 -->
+      <div>
+        <h3 style="margin: 0;">
+          <a href="https://github.com/yourusername/project2" style="text-decoration: none; color: #0366d6;">Another Project</a>
+        </h3>
+        <p>An innovative solution for [describe key functionality]. Designed to optimize user experience and data processing efficiency.</p>
+        <div style="margin: 10px 0;">
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">Python</span>
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">TensorFlow</span>
+          <span style="background-color: #e8eaf6; padding: 5px 10px; border-radius: 15px; font-size: 14px; margin-right: 5px;">AWS</span>
+        </div>
+        <ul>
+          <li>Processed 1TB+ of data using distributed computing</li>
+          <li>Reduced processing time by 60% using parallel algorithms</li>
+          <li>Implemented ML models with 92% accuracy</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<!-- Certifications Section -->
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 20px;">
+    <h2 style="margin-top: 0;">🏆 CERTIFICATIONS</h2>
+  </div>
+  <div style="padding: 20px; display: flex; flex-wrap: wrap; gap: 15px;">
+    <div style="background-color: #f9fbe7; padding: 15px; border-radius: 8px; flex: 1; min-width: 200px;">
+      <h3 style="margin-top: 0;">AWS Certified Solutions Architect</h3>
+      <p style="margin-bottom: 5px;">Amazon Web Services</p>
+      <div style="background-color: #f1f8e9; display: inline-block; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2023</div>
+    </div>
+    
+    <div style="background-color: #f9fbe7; padding: 15px; border-radius: 8px; flex: 1; min-width: 200px;">
+      <h3 style="margin-top: 0;">Google Cloud Professional Developer</h3>
+      <p style="margin-bottom: 5px;">Google Cloud</p>
+      <div style="background-color: #f1f8e9; display: inline-block; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2022</div>
+    </div>
+    
+    <div style="background-color: #f9fbe7; padding: 15px; border-radius: 8px; flex: 1; min-width: 200px;">
+      <h3 style="margin-top: 0;">Microsoft Certified: Azure Developer</h3>
+      <p style="margin-bottom: 5px;">Microsoft</p>
+      <div style="background-color: #f1f8e9; display: inline-block; padding: 5px 10px; border-radius: 15px; font-size: 14px;">2021</div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<!-- Languages Section -->
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(135deg, #43cea2, #185a9d); color: white; padding: 20px;">
+    <h2 style="margin-top: 0;">🗣️ LANGUAGES</h2>
+  </div>
+  <div style="padding: 20px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <div style="flex: 1; min-width: 150px;">
+        <div style="margin-bottom: 8px; font-weight: bold;">English</div>
+        <div style="background-color: #e0e0e0; height: 10px; border-radius: 5px; overflow: hidden;">
+          <div style="background-color: #4caf50; height: 100%; width: 100%;"></div>
+        </div>
+        <div style="text-align: right; font-size: 12px; margin-top: 3px;">Native</div>
+      </div>
+      
+      <div style="flex: 1; min-width: 150px;">
+        <div style="margin-bottom: 8px; font-weight: bold;">Spanish</div>
+        <div style="background-color: #e0e0e0; height: 10px; border-radius: 5px; overflow: hidden;">
+          <div style="background-color: #4caf50; height: 100%; width: 90%;"></div>
+        </div>
+        <div style="text-align: right; font-size: 12px; margin-top: 3px;">Fluent</div>
+      </div>
+      
+      <div style="flex: 1; min-width: 150px;">
+        <div style="margin-bottom: 8px; font-weight: bold;">French</div>
+        <div style="background-color: #e0e0e0; height: 10px; border-radius: 5px; overflow: hidden;">
+          <div style="background-color: #ff9800; height: 100%; width: 60%;"></div>
+        </div>
+        <div style="text-align: right; font-size: 12px; margin-top: 3px;">Intermediate</div>
+      </div>
+      
+      <div style="flex: 1; min-width: 150px;">
+        <div style="margin-bottom: 8px; font-weight: bold;">German</div>
+        <div style="background-color: #e0e0e0; height: 10px; border-radius: 5px; overflow: hidden;">
+          <div style="background-color: #f44336; height: 100%; width: 25%;"></div>
+        </div>
+        <div style="text-align: right; font-size: 12px; margin-top: 3px;">Basic</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center" style="margin-top: 40px;">
+  <p>Feel free to reach out for collaboration opportunities or just to connect!</p>
+  <p style="font-size: 12px; color: #666;">This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025</p>
+</div>
+
+

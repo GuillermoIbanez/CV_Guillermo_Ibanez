@@ -4,8 +4,8 @@
   <tr>
     <td valign="middle"><img src="constructor_academy_logo.png" alt="Alt text for your image" width="50"></td>
     <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
-    Data Science & AI Course (Constructor Academy) Zurich, Switzerland
   </tr>
+  Data Science & AI Course (Constructor Academy) Zurich, Switzerland
 </table>
 
 <br>

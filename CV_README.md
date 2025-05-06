@@ -38,33 +38,36 @@ including writing research and making presentations in public. Native Spanish sp
   <table>
     <tr>
       <td valign="top">
-        <h3>Languages</h3>
+        <h3>Programming</h3>
         <ul>
-          <li>JavaScript</li>
           <li>Python</li>
-          <li>Java</li>
+          <li>Bash</li>
           <li>SQL</li>
-          <li>HTML/CSS</li>
+          <li>HTML</li>
         </ul>
       </td>
       <td valign="top">
-        <h3>Frameworks & Libraries</h3>
+        <h3>Libraries</h3>
         <ul>
-          <li>React</li>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>Django</li>
+          <li>Matplotlib</li>
+          <li>Plotly</li>
+          <li>Seaborn</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
           <li>TensorFlow</li>
+          <li>Scikit-learn</li>
+          <li>PyTorch</li>
+          <li>SciPy</li>
         </ul>
       </td>
       <td valign="top">
         <h3>Tools & Platforms</h3>
         <ul>
-          <li>Git</li>
-          <li>Docker</li>
-          <li>AWS</li>
-          <li>Linux</li>
-          <li>CI/CD</li>
+          <li>GitLab</li>
+          <li>JupiterLab</li>
+          <li>Google Colab</li>
+          <li>Visual Studio Code 2</li>
+          <li>GitHub</li>
         </ul>
       </td>
     </tr>
@@ -94,6 +97,22 @@ including writing research and making presentations in public. Native Spanish sp
 
 <div>
   <h2>🎓 Education</h2>
+<table>
+  <tr>
+    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
+  </tr>
+</table>
+
+Data Science & AI Course (Constructor Academy) Zurich, Switzerland
+
+<strong>Data Analytics:</strong> Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making. Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash
+
+<strong>Machine Learning & Artificial Intelligence:</strong> Train computer algorithms to learn patterns and make predictions or decisions without explicit instructions, based on data inputs. Tools used: ChatGPT · OpenAI · LangChain · Scikit-learn · SciPy · TensorFlow · PyCaret
+
+<strong>DevOps:</strong> Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other. Tools used: GIT · GitLab · Docker · AWS
+
+
   
   <h3>Master of Science in Computer Science</h3>
   <p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
@@ -143,9 +162,10 @@ including writing research and making presentations in public. Native Spanish sp
 <div>
   <h2>🌐 Languages</h2>
   <ul>
-    <li>English (Native)</li>
-    <li>Spanish (Fluent)</li>
-    <li>French (Intermediate)</li>
+    <li>English (C2)</li>
+    <li>Spanish (C2)</li>
+    <li>French (C1)</li>
+    <li>German (B1)</li>
   </ul>
 </div>
 
@@ -157,20 +177,6 @@ including writing research and making presentations in public. Native Spanish sp
 
 
 # Data Science & Programming Education
-<table>
-  <tr>
-    <td valign="middle"><img src="constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>Data Science & AI Full Time in person Course 4 months</strong></td>
-  </tr>
-</table>
-
-Data Science & AI Course (Constructor Academy) Zurich, Switzerland
-
-<strong>Data Analytics:</strong> Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making. Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash
-
-<strong>Machine Learning & Artificial Intelligence:</strong> Train computer algorithms to learn patterns and make predictions or decisions without explicit instructions, based on data inputs. Tools used: ChatGPT · OpenAI · LangChain · Scikit-learn · SciPy · TensorFlow · PyCaret
-
-<strong>DevOps:</strong> Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other. Tools used: GIT · GitLab · Docker · AWS
 
 <table>
   <tr>

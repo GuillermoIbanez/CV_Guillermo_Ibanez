@@ -113,25 +113,26 @@ allocation process.</td>
 </div>
 
 <div>
-  <h2>🎓Data Science Education</h2>
+<h2>🎓Data Science Education</h2>
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="70"></td>
     <td valign="middle"><strong>Data Science & AI Course (Constructor Academy)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Data Science & AI Full Time in person Course 4 months Zurich, Switzerland | Graduated: May 2017</td>
   </tr>
 </table>
 
- Data Science & AI Full Time in person Course 4 months Zurich, Switzerland | Graduated: May 2017</p>
+<p><strong>Data Analytics:</strong> Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making. Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash</p>
 
-<strong>Data Analytics:</strong> Examine large and complex data sets to uncover insights, trends, and patterns that can inform decision-making. Tools used: Python · SQL · Numpy · Pandas · Jupiter Notebook · Visual Studio Code · Matplotlib · Streamlit · Bash
+<p><strong>Machine Learning & Artificial Intelligence:</strong> Train computer algorithms to learn patterns and make predictions or decisions without explicit instructions, based on data inputs. Tools used: ChatGPT · OpenAI · LangChain · Scikit-learn · SciPy · TensorFlow · PyCaret</p>
 
-<strong>Machine Learning & Artificial Intelligence:</strong> Train computer algorithms to learn patterns and make predictions or decisions without explicit instructions, based on data inputs. Tools used: ChatGPT · OpenAI · LangChain · Scikit-learn · SciPy · TensorFlow · PyCaret
-
-<strong>DevOps:</strong> Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other. Tools used: GIT · GitLab · Docker · AWS
+<p><strong>DevOps:</strong> Efficiently manage team tasks and collaborate using GitLab. Gain the ability to deploy your applications on the web and seamlessly connect them to each other. Tools used: GIT · GitLab · Docker · AWS</p>
 
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/edX_logo.png" alt="Alt text for your image" width="50"></td>
+    <td valign="middle"><img src="images_CV/edX_logo.png" alt="Alt text for your image" width="70"></td>
     <td valign="middle"><strong>IBM edEX Data Science Python Certificates</strong></td>
   </tr>
   <tr>
@@ -156,19 +157,19 @@ allocation process.</td>
 
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/code_academy_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/code_academy_logo.png" alt="Alt text for your image" width="70"></td>
     <td valign="middle"><strong>Codecademy Learn Data Analysis with Pandas Course</strong></td>
   </tr>
 </table>
-
   
-  <h2>🎓Finance Education</h2> <h2>
-  <p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
-  <p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
+<h2>🎓Finance Education</h2>
+<p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
+<p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
+
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>Master in Finance | ICADE Business School (Comillas Pontifical University)</strong ></td>
+    <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="70"></td>
+    <td valign="middle"><strong>Master in Finance | ICADE Business School (Comillas Pontifical University)</strong></td>
   </tr>
   <tr>
     <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
@@ -177,7 +178,7 @@ allocation process.</td>
 
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="70"></td>
     <td valign="middle"><strong>Bachelor of business administration | CEU San Pablo University</strong></td>
   </tr>
   <tr>

@@ -1,5 +1,4 @@
-# Guillermo Ibanez
-# Data & Financial Analyst
+# CV Guillermo Ibanez Data & Financial Analyst
 
 # Data Science & Programming Education
 <table>

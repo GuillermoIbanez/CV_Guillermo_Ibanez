@@ -168,11 +168,10 @@ allocation process.</td>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>Master in Finance</strong></td>
-    <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
+    <td valign="middle"><strong>Master in Finance | ICADE Business School (Comillas Pontifical University)</strong ></td>
   </tr>
   <tr>
-    <td colspan="3">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
+    <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
   </tr>
 </table>
 
@@ -182,7 +181,7 @@ allocation process.</td>
     <td valign="middle"><strong>Bachelor of business administration | CEU San Pablo University</strong></td>
   </tr>
   <tr>
-    <td colspan="3">Topics covered include: Finance, Accounting &amp; Economics</td>
+    <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
   </tr>
 </table>
 

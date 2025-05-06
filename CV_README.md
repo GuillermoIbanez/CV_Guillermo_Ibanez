@@ -117,10 +117,10 @@ allocation process.</td>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/constructor_academy_logo_2.png" alt="Alt text for your image" width="70"></td>
-    <td valign="middle"><strong>Data Science & AI Course (Constructor Academy)</strong></td>
+    <td valign="middle"><strong>Data Science & AI Course (Constructor Academy) | Graduated: May 2025</strong></td>
   </tr>
   <tr>
-    <td colspan="2">Data Science & AI Full Time in person Course 4 months Zurich, Switzerland | Graduated: May 2017</td>
+    <td colspan="2">Data Science & AI Full Time in person Course 4 months Zurich, Switzerland</td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@ allocation process.</td>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="70"></td>
-    <td valign="middle"><strong>Master in Finance | ICADE Business School (Comillas Pontifical University)</strong></td>
+    <td valign="middle"><strong>Master in Finance | ICADE Business School (Comillas Pontifical University) | Graduated: June 2015</strong></td>
   </tr>
   <tr>
     <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
@@ -179,10 +179,20 @@ allocation process.</td>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="70"></td>
-    <td valign="middle"><strong>Bachelor of business administration | CEU San Pablo University</strong></td>
+    <td valign="middle"><strong>Bachelor of business administration | CEU San Pablo University | Graduated: June 2013</strong></td>
   </tr>
   <tr>
     <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="70"></td>
+    <td valign="middle"><strong>Bachelor of business administration | Boston University | Exchange Program September 2012 - January 2013</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Topics covered include: Finance, Accounting and Economics</td>
   </tr>
 </table>
 

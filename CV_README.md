@@ -179,8 +179,7 @@ allocation process.</td>
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>Bachelor of business administration</strong></td>
-    <td valign="middle"><strong>CEU San Pablo University</strong></td>
+    <td valign="middle"><strong>Bachelor of business administration | CEU San Pablo University</strong></td>
   </tr>
   <tr>
     <td colspan="3">Topics covered include: Finance, Accounting &amp; Economics</td>

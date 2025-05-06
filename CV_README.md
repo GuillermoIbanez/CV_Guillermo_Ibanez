@@ -163,9 +163,6 @@ allocation process.</td>
 </table>
   
 <h2>🎓Finance Education</h2>
-<p><a href="https://university.edu">University Name</a> | Graduated: May 2017</p>
-<p><em>Relevant coursework: Advanced Algorithms, Machine Learning, Database Systems</em></p>
-
 <table>
   <tr>
     <td valign="middle"><img src="images_CV/master_finance_logo.png" alt="Alt text for your image" width="70"></td>
@@ -195,10 +192,6 @@ allocation process.</td>
     <td colspan="2">Topics covered include: Finance, Accounting and Economics</td>
   </tr>
 </table>
-
-  <h3>Bachelor of Science in Software Engineering</h3>
-  <p><a href="https://university.edu">University Name</a> | Graduated: June 2015</p>
-  <p><em>Graduated with honors (GPA: 3.8/4.0)</em></p>
 </div>
 
 <div>

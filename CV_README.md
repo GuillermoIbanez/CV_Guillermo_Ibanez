@@ -1,13 +1,13 @@
 
 <div align="center">
-  <h1>CV Guillermo Ibanez Data & Financial Analyst</h1>
+  <h1>CV Guillermo Ibanez</h1>
   <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail"></a>
     <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-yourusername-blue?style=flat-square&logo=github"></a>
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-yourhandle-blue?style=flat-square&logo=twitter"></a>
   </p>
-  <p>Data Analyst | Financial Analyst | Your Title</p>
+  <p1>Data Analyst | Financial Analyst | Your Title</p>
   <p>Location · Available for opportunities</p>
 </div>
 

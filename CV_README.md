@@ -2,8 +2,8 @@
 <div align="center">
   <h1>CV Guillermo Ibanez</h1>
   <p>
-    <a href="mailto:guillermo.ibanez.albajar@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail"></a>
-    <a href="https://linkedin.com/in/guillermo-ibanez-4626355a"><img src="https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:guillermo.ibanez.albajar@gmail.com"><img src="https://img.shields.io/badge/Email-guillermo.ibanez.albajar@gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://linkedin.com/in/guillermo-ibanez-4626355a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://github.com/GuillermoIbanez"><img src="https://img.shields.io/badge/GitHub-yourusername-blue?style=flat-square&logo=github"></a>
   </p>
   <h1>Data Analyst | Financial Analyst</h1>

@@ -172,7 +172,7 @@ allocation process.</td>
     <td valign="middle"><strong>ICADE Business School (Comillas Pontifical University)</strong></td>
   </tr>
   <tr>
-    <td colspan="2">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
+    <td colspan="3">Major in: Advanced Corp. Finance, Adv. Quantitative Methods</td>
   </tr>
 </table>
 
@@ -183,7 +183,7 @@ allocation process.</td>
     <td valign="middle"><strong>CEU San Pablo University</strong></td>
   </tr>
   <tr>
-    <td colspan="2">Topics covered include: Finance, Accounting &amp; Economics</td>
+    <td colspan="3">Topics covered include: Finance, Accounting &amp; Economics</td>
   </tr>
 </table>
 

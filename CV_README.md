@@ -102,7 +102,7 @@ allocation process.</td>
   <table>
   <tr>
     <td valign="middle"><img src="images_CV/AIB_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>AIB (Allied Irish Banks)</strong></td>
+    <td valign="middle"><strong>AIB (Allied Irish Banks) | Dublin, Ireland | Banks & Countries Credit Analyst</strong></td>
   </tr>
   <tr>
     <td colspan="2">Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/
@@ -226,7 +226,6 @@ and grade counterparties.</td>
 -\
 
 
--AIB (Allied Irish Banks)\
 -Deutsche Bank\
 -Credit Suisse\
 -Spanish Ministry Of Economy And Competitiveness\

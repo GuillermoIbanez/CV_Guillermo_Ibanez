@@ -176,7 +176,7 @@ allocation process.</td>
 
 <table>
   <tr>
-    <td valign="middle"><img src="images_CV/BBA_logo.png" alt="Alt text for your image" width="70"></td>
+    <td valign="middle"><img src="images_CV/BBA_exchange_logo.png" alt="Alt text for your image" width="70"></td>
     <td valign="middle"><strong>Bachelor of business administration | Boston University | Exchange Program September 2012 - January 2013</strong></td>
   </tr>
   <tr>

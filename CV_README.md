@@ -86,7 +86,7 @@ allocation process.</td>
   <table>
   <tr>
     <td valign="middle"><img src="images_CV/UBS_logo.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>UBS (Switzerland)</strong></td>
+    <td valign="middle"><strong>UBS | Zurich, Switzerland | Financial Institutions Credit Analyst/Research</strong></td>
   </tr>
   <tr>
     <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,

@@ -234,7 +234,19 @@ allocation process.</td>
 <div align="center">
   <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
 </div>
+<div>
+  <h2>🌐 Languages</h2>
+  <ul>
+    <li>English (C2)</li>
+    <li>Spanish (C2)</li>
+    <li>French (C1)</li>
+    <li>German (B1)</li>
+  </ul>
+</div>
 
+<div align="center">
+  <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
+</div>
 
 
 

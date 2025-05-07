@@ -74,7 +74,9 @@
   </tr>
   <tr>
     <td colspan="2">At Arthur Weber, clients regularly submit lengthy tender documents requesting building materials for their construction projects. These tenders often span hundreds of pages and contain detailed—but often unrelated—descriptions of entire construction processes. Buried within them are the actual product orders: lists of items, quantities, and units. Today, manually parsing and processing these documents to generate client offers is a slow, labor-intensive task.
-We automated this process using AI, specifically by combining text extraction, natural language processing, and vector search. For more details on the project please check the  Projects_README file.
+We automated this process using AI, specifically by combining text extraction, natural language processing, and vector search. 
+</td>
+        <td colspan="2">As part of my Data Science & AI Course (Constructor Academy) that i did in Zurich, i took part in this project. For more details on the project including methodologies used and the code used please check the Automation_Project.README and the Projects_README files.
 </td>
   </tr> 
 </table>

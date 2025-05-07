@@ -85,17 +85,13 @@ allocation process.</td>
 </table>
   <table>
   <tr>
-    <td valign="middle"><img src="images_CV/AIB_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><img src="images_CV/AIB_logo.png" alt="Alt text for your image" width="50"></td>
     <td valign="middle"><strong>AIB (Allied Irish Banks)</strong></td>
   </tr>
   <tr>
     <td colspan="2"> Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/
 Multilateral agencies, ABS / MBS / Cov. Bonds (inc. collateral).
- 
- 
- 
-
- </td>
+ </td>
   </tr>
   <tr>
     <td colspan="2">Prepare credit papers and present/discuss them in credit risk committees and with senior management.</td>

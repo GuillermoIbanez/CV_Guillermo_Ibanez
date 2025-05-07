@@ -205,22 +205,6 @@ allocation process.</td>
 </div>
 
 <div>
-  <h2>📜 Certifications</h2>
-  <ul>
-    <li>AWS Certified Solutions Architect (2021)</li>
-    <li>Google Professional Data Engineer (2020)</li>
-    <li>Scrum Master Certification (2019)</li>
-  </ul>
-</div>
-
-<div>
-  <h2>📚 Publications & Talks</h2>
-  <ul>
-    <li>"<a href="https://publication-link.com">Title of Publication</a>" - Journal/Conference Name (Year)</li>
-    <li>"<a href="https://talk-slides.com">Title of Talk</a>" - Conference/Meetup Name (Year)</li>
-  </ul>
-</div>
-
 <div>
   <h2>🌐 Languages</h2>
   <ul>

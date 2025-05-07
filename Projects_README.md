@@ -1,7 +1,10 @@
   <h2>🚀 Projects</h2>
   
-  <h3><a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
-  <p>A brief description of the project, what technologies were used, and what problems it solves.</p>
+  <h3><a href="https://github.com/yourusername/project-repo">Automation Project</a></h3>
+  <p>Automating Client Offers with AI: Streamlining a Manual Process at Arthur Weber</p>
+<p>At Arthur Weber, clients regularly submit lengthy tender documents requesting building materials for their construction projects. These tenders often span hundreds of pages and contain detailed—but often unrelated—descriptions of entire construction processes. Buried within them are the actual product orders: lists of items, quantities, and units. Today, manually parsing and processing these documents to generate client offers is a slow, labor-intensive task.
+Our goal is to automate this process using AI, specifically by combining text extraction, natural language processing, and vector search.
+</p>
   <p>
     <img src="https://img.shields.io/badge/Tech-JavaScript-blue?style=flat-square&logo=javascript">
     <img src="https://img.shields.io/badge/Tech-React-blue?style=flat-square&logo=react">

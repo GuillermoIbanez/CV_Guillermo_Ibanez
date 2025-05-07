@@ -70,7 +70,7 @@
     <table>
   <tr>
     <td valign="middle"><img src="images_CV/arthur_weber_logo.png" alt="Alt text for your image" width="200"></td>
-    <td valign="middle"><strong>Arthur Weber | Zurich, Switzerland | Automation Project</strong></td>
+    <td valign="middle"><strong>Arthur Weber | Zurich, Switzerland | Automation Project - April 2025 / May 2025</strong></td>
   </tr>
   <tr>
     <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,
@@ -86,7 +86,7 @@ allocation process.</td>
   <table>
   <tr>
     <td valign="middle"><img src="images_CV/UBS_logo.png" alt="Alt text for your image" width="85"></td>
-    <td valign="middle"><strong>UBS | Zurich, Switzerland | Financial Institutions Credit Analyst/Research</strong></td>
+    <td valign="middle"><strong>UBS | Zurich, Switzerland | Financial Institutions Credit Analyst/Research - October 2020 / December 2023</strong></td>
   </tr>
   <tr>
     <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,
@@ -102,7 +102,7 @@ allocation process.</td>
   <table>
   <tr>
     <td valign="middle"><img src="images_CV/AIB_logo.png" alt="Alt text for your image" width="50"></td>
-    <td valign="middle"><strong>AIB (Allied Irish Banks) | Dublin, Ireland | Banks & Countries Credit Analyst</strong></td>
+    <td valign="middle"><strong>AIB (Allied Irish Banks) | Dublin, Ireland | Banks & Countries Credit Analyst - August 2027 / September 2020</strong></td>
   </tr>
   <tr>
     <td colspan="2">Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/

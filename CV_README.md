@@ -89,7 +89,7 @@ allocation process.</td>
     <td valign="middle"><strong>AIB (Allied Irish Banks)</strong></td>
   </tr>
   <tr>
-    <td colspan="2"> Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/
+    <td colspan="2">Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/
 Multilateral agencies, ABS / MBS / Cov. Bonds (inc. collateral).
  </td>
   </tr>

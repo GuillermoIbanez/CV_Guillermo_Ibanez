@@ -73,15 +73,10 @@
     <td valign="middle"><strong>Arthur Weber | Zurich, Switzerland | Automation Project - April 2025 / May 2025</strong></td>
   </tr>
   <tr>
-    <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,
-publishing reports to clients/other stakeholders on a regular basis. Experience interacting regularly with senior
-management coordinating projects/reports across multidisciplinary and international teams.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Interact with buy-side and sell-side investment professionals and present my recommendations and credit/risk
-views to colleagues and clients alike. Present my research views in internal meetings in support of UBS&#39;s asset
-allocation process.</td>
-  </tr>  
+    <td colspan="2">At Arthur Weber, clients regularly submit lengthy tender documents requesting building materials for their construction projects. These tenders often span hundreds of pages and contain detailed—but often unrelated—descriptions of entire construction processes. Buried within them are the actual product orders: lists of items, quantities, and units. Today, manually parsing and processing these documents to generate client offers is a slow, labor-intensive task.
+We automated this process using AI, specifically by combining text extraction, natural language processing, and vector search. For more details on the project please check the  Projects_README file.
+</td>
+  </tr> 
 </table>
   <table>
   <tr>

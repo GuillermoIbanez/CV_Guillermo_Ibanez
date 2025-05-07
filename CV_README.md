@@ -67,6 +67,23 @@
 
 <div>
   <h2>💼 Work Experience</h2>
+    <table>
+  <tr>
+    <td valign="middle"><img src="images_CV/UBS_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>Arthur Weber</strong></td>
+    <td valign="middle"><strong>Automation Project</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Perform financial analysis and monitor the credit quality of a portfolio of investment grade financial institutions,
+publishing reports to clients/other stakeholders on a regular basis. Experience interacting regularly with senior
+management coordinating projects/reports across multidisciplinary and international teams.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Interact with buy-side and sell-side investment professionals and present my recommendations and credit/risk
+views to colleagues and clients alike. Present my research views in internal meetings in support of UBS&#39;s asset
+allocation process.</td>
+  </tr>  
+</table>
   <table>
   <tr>
     <td valign="middle"><img src="images_CV/UBS_logo.png" alt="Alt text for your image" width="85"></td>

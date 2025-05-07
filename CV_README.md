@@ -69,7 +69,7 @@
   <h2>💼 Work Experience</h2>
     <table>
   <tr>
-    <td valign="middle"><img src="images_CV/arthur_weber_logo.png" alt="Alt text for your image" width="250"></td>
+    <td valign="middle"><img src="images_CV/arthur_weber_logo.png" alt="Alt text for your image" width="200"></td>
     <td valign="middle"><strong>Arthur Weber | Zurich, Switzerland | Automation Project</strong></td>
   </tr>
   <tr>

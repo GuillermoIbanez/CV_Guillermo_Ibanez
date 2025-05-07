@@ -83,26 +83,40 @@ views to colleagues and clients alike. Present my research views in internal mee
 allocation process.</td>
   </tr>  
 </table>
-
-  
-  <h3>Senior Software Engineer | <a href="https://company-website.com">Company Name</a></h3>
-  <p><em>January 2020 - Present</em></p>
-  <ul>
-    <li>Led the development of [specific project], resulting in [measurable outcome]</li>
-    <li>Implemented [technology/feature], which improved [metric] by [percentage]</li>
-    <li>Mentored junior developers and conducted code reviews</li>
-    <li>Collaborated with cross-functional teams to deliver projects on schedule</li>
-  </ul>
-  
-  <h3>Software Developer | <a href="https://previous-company.com">Previous Company</a></h3>
-  <p><em>June 2017 - December 2019</em></p>
-  <ul>
-    <li>Developed and maintained [product/service], serving [number] of users</li>
-    <li>Optimized database queries, reducing response time by [percentage]</li>
-    <li>Contributed to agile development process and participated in sprint planning</li>
-  </ul>
-</div>
-
+  <table>
+  <tr>
+    <td valign="middle"><img src="images_CV/AIB_logo.png" alt="Alt text for your image" width="85"></td>
+    <td valign="middle"><strong>AIB (Allied Irish Banks)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"> Financial and Credit Analysis / Research of mostly Financial Institutions but also Countries / Provinces/
+Multilateral agencies, ABS / MBS / Cov. Bonds (inc. collateral).
+ 
+ 
+ 
+
+ </td>
+  </tr>
+  <tr>
+    <td colspan="2">Prepare credit papers and present/discuss them in credit risk committees and with senior management.</td>
+  </tr>  
+      <tr>
+    <td colspan="2">Ensure compliance with all relevant policies applicable to the different counterparties, bonds, derivatives &amp;
+other products. Ad Hoc valuations of new counterparts; prepare memos on current events (e.g. new regulations)
+and grade counterparties.</td>
+  </tr>  
+      <tr>
+    <td colspan="2">Assign exposure limits by entity, product and country and monitor their use.</td>
+  </tr>  
+      </tr>  
+      <tr>
+    <td colspan="2">Portfolio Monitoring; checking Ratings/News to ensure the validity of internal grades / valuations.</td>
+  </tr>  
+  </tr>  
+      <tr>
+    <td colspan="2">Responsible for a quarterly portfolio report &amp; its presentation. Take part in Projects where a credit/limits perspective is needed.</td>
+  </tr>  
+</table>
 <div>
 <h2>🎓Data Science Education</h2>
 <table>
@@ -183,10 +197,7 @@ allocation process.</td>
     <td colspan="2">Topics covered include: Finance, Accounting and Economics</td>
   </tr>
 </table>
-</div>
-<div align="center">
-  <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
-</div>
+
 <div>
   <h2>🌐 Languages</h2>
   <ul>
@@ -209,4 +220,8 @@ allocation process.</td>
 -Spanish Ministry Of Economy And Competitiveness\
 -BBVA – Corporate & Investment Banking\
 
-### Data Science Projects
+
+</div>
+<div align="center">
+  <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
+</div>

@@ -26,7 +26,7 @@
 </ul>
   </p>
 </div>
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <div>
     <h2>🛠️ Skills</h2>
     <table>

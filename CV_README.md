@@ -26,60 +26,18 @@
 </ul>
   </p>
 <div align="center">
-  <h2 style="margin-bottom: 15px;">🛠️ Skills</h2>
-  
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 900px; margin: 0 auto;">
-    <!-- Programming Skills Card -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
-        <strong>Programming</strong>
-      </div>
-      <div style="padding: 0;">
-        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
-          <li>Python</li>
-          <li>Bash</li>
-          <li>SQL</li>
-          <li>HTML</li>
-        </ul>
-      </div>
-    </div>
-    
-    <!-- Libraries Skills Card -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
-        <strong>Libraries</strong>
-      </div>
-      <div style="padding: 0;">
-        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
-          <li>Matplotlib</li>
-          <li>Plotly</li>
-          <li>Seaborn</li>
-          <li>Pandas</li>
-          <li>NumPy</li>
-          <li>TensorFlow</li>
-          <li>Scikit-learn</li>
-          <li>PyTorch</li>
-          <li>SciPy</li>
-        </ul>
-      </div>
-    </div>
-    
-    <!-- Tools & Platforms Skills Card -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
-        <strong>Tools & Platforms</strong>
-      </div>
-      <div style="padding: 0;">
-        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
-          <li>GitLab</li>
-          <li>JupiterLab</li>
-          <li>Google Colab</li>
-          <li>Visual Studio Code 2</li>
-          <li>GitHub</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+## 🛠️ Skills
+| **Programming** | **Libraries** | **Tools & Platforms** |
+|:---|:---|:---|
+| • Python | • Matplotlib | • GitLab |
+| • Bash | • Plotly | • JupiterLab |
+| • SQL | • Seaborn | • Google Colab |
+| • HTML | • Pandas | • Visual Studio Code 2 |
+|  | • NumPy | • GitHub |
+|  | • TensorFlow |  |
+|  | • Scikit-learn |  |
+|  | • PyTorch |  |
+|  | • SciPy |  |
 </div>
 <div>
   <h2>💼 Work Experience</h2>

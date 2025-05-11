@@ -26,50 +26,60 @@
 </ul>
   </p>
 <div align="center">
-  <h2 style="margin-bottom: 5px;">🛠️ Skills</h2>
-  <table cellspacing="0" cellpadding="10" style="border-collapse: collapse; empty-cells: show;">
-    <thead>
-      <tr>
-        <th style="text-align: center; padding: 0 15px;">Programming</th>
-        <th style="text-align: center; padding: 0 15px;">Libraries</th>
-        <th style="text-align: center; padding: 0 15px;">Tools & Platforms</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="vertical-align: top; text-align: left; padding: 0 15px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Python</li>
-            <li>Bash</li>
-            <li>SQL</li>
-            <li>HTML</li>
-          </ul>
-        </td>
-        <td style="vertical-align: top; text-align: left; padding: 0 15px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Matplotlib</li>
-            <li>Plotly</li>
-            <li>Seaborn</li>
-            <li>Pandas</li>
-            <li>NumPy</li>
-            <li>TensorFlow</li>
-            <li>Scikit-learn</li>
-            <li>PyTorch</li>
-            <li>SciPy</li>
-          </ul>
-        </td>
-        <td style="vertical-align: top; text-align: left; padding: 0 15px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>GitLab</li>
-            <li>JupiterLab</li>
-            <li>Google Colab</li>
-            <li>Visual Studio Code 2</li>
-            <li>GitHub</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <h2 style="margin-bottom: 15px;">🛠️ Skills</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 900px; margin: 0 auto;">
+    <!-- Programming Skills Card -->
+    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
+        <strong>Programming</strong>
+      </div>
+      <div style="padding: 0;">
+        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
+          <li>Python</li>
+          <li>Bash</li>
+          <li>SQL</li>
+          <li>HTML</li>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Libraries Skills Card -->
+    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
+        <strong>Libraries</strong>
+      </div>
+      <div style="padding: 0;">
+        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
+          <li>Matplotlib</li>
+          <li>Plotly</li>
+          <li>Seaborn</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
+          <li>TensorFlow</li>
+          <li>Scikit-learn</li>
+          <li>PyTorch</li>
+          <li>SciPy</li>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Tools & Platforms Skills Card -->
+    <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <div style="background-color: #f8f9fa; padding: 10px 0; text-align: center; border-bottom: 1px solid #ddd;">
+        <strong>Tools & Platforms</strong>
+      </div>
+      <div style="padding: 0;">
+        <ul style="margin: 10px 0; padding-left: 30px; text-align: left;">
+          <li>GitLab</li>
+          <li>JupiterLab</li>
+          <li>Google Colab</li>
+          <li>Visual Studio Code 2</li>
+          <li>GitHub</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 <div>
   <h2>💼 Work Experience</h2>

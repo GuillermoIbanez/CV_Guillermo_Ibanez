@@ -28,15 +28,15 @@
 <div align="center">
   <h2 style="margin-bottom: 5px;">🛠️ Skills</h2>
   <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Programming</h3></td>
+    <tr style="margin: 0; padding: 0;">
+      <td valign="top" style="margin: 0; padding: 0;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 0; padding: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="center" style="margin: 0; padding: 0;"><h3 style="margin: 0; padding: 0;">Programming</h3></td>
           </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="left" style="margin: 0; padding: 0;">
+              <ul style="margin: 0; padding-left: 20px;">
                 <li>Python</li>
                 <li>Bash</li>
                 <li>SQL</li>
@@ -46,14 +46,14 @@
           </tr>
         </table>
       </td>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Libraries</h3></td>
+      <td valign="top" style="margin: 0; padding: 0;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 0; padding: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="center" style="margin: 0; padding: 0;"><h3 style="margin: 0; padding: 0;">Libraries</h3></td>
           </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="left" style="margin: 0; padding: 0;">
+              <ul style="margin: 0; padding-left: 20px;">
                 <li>Matplotlib</li>
                 <li>Plotly</li>
                 <li>Seaborn</li>
@@ -68,14 +68,14 @@
           </tr>
         </table>
       </td>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Tools & Platforms</h3></td>
+      <td valign="top" style="margin: 0; padding: 0;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 0; padding: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="center" style="margin: 0; padding: 0;"><h3 style="margin: 0; padding: 0;">Tools & Platforms</h3></td>
           </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
+          <tr style="margin: 0; padding: 0;">
+            <td align="left" style="margin: 0; padding: 0;">
+              <ul style="margin: 0; padding-left: 20px;">
                 <li>GitLab</li>
                 <li>JupiterLab</li>
                 <li>Google Colab</li>

@@ -30,8 +30,8 @@
   <table cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" align="left">
-        <h3 style="margin-bottom: 0;">Programming</h3>
-        <ul>
+        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Programming</h3>
+        <ul style="margin-top: 5px;">
           <li>Python</li>
           <li>Bash</li>
           <li>SQL</li>
@@ -39,8 +39,8 @@
         </ul>
       </td>
       <td valign="top" align="left">
-        <h3 style="margin-bottom: 0;">Libraries</h3>
-        <ul>
+        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Libraries</h3>
+        <ul style="margin-top: 5px;">
           <li>Matplotlib</li>
           <li>Plotly</li>
           <li>Seaborn</li>
@@ -53,8 +53,8 @@
         </ul>
       </td>
       <td valign="top" align="left">
-        <h3 style="margin-bottom: 0;">Tools & Platforms</h3>
-        <ul>
+        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Tools & Platforms</h3>
+        <ul style="margin-top: 5px;">
           <li>GitLab</li>
           <li>JupiterLab</li>
           <li>Google Colab</li>

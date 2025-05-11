@@ -28,7 +28,6 @@
 <div align="center">
   <h2>🛠️ Skills</h2>
   <table>
-    <tr>
       <td valign="top" style="text-align: left;">
         <h3>Programming</h3>
         <ul>
@@ -37,7 +36,6 @@
           <li>SQL</li>
           <li>HTML</li>
         </ul>
-      </td>
       <td valign="top" style="text-align: left;">
         <h3>Libraries</h3>
         <ul>

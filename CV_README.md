@@ -27,40 +27,64 @@
   </p>
 <div align="center">
   <h2>🛠️ Skills</h2>
-  <table cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td valign="top" align="left">
-        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Programming</h3>
-        <ul style="margin-top: 5px;">
-          <li>Python</li>
-          <li>Bash</li>
-          <li>SQL</li>
-          <li>HTML</li>
-        </ul>
+      <td valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="center"><h3>Programming</h3></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <ul>
+                <li>Python</li>
+                <li>Bash</li>
+                <li>SQL</li>
+                <li>HTML</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
       </td>
-      <td valign="top" align="left">
-        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Libraries</h3>
-        <ul style="margin-top: 5px;">
-          <li>Matplotlib</li>
-          <li>Plotly</li>
-          <li>Seaborn</li>
-          <li>Pandas</li>
-          <li>NumPy</li>
-          <li>TensorFlow</li>
-          <li>Scikit-learn</li>
-          <li>PyTorch</li>
-          <li>SciPy</li>
-        </ul>
+      <td valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="center"><h3>Libraries</h3></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <ul>
+                <li>Matplotlib</li>
+                <li>Plotly</li>
+                <li>Seaborn</li>
+                <li>Pandas</li>
+                <li>NumPy</li>
+                <li>TensorFlow</li>
+                <li>Scikit-learn</li>
+                <li>PyTorch</li>
+                <li>SciPy</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
       </td>
-      <td valign="top" align="left">
-        <h3 style="margin-top: 0; margin-bottom: 0; text-align: center;">Tools & Platforms</h3>
-        <ul style="margin-top: 5px;">
-          <li>GitLab</li>
-          <li>JupiterLab</li>
-          <li>Google Colab</li>
-          <li>Visual Studio Code 2</li>
-          <li>GitHub</li>
-        </ul>
+      <td valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="center"><h3>Tools & Platforms</h3></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <ul>
+                <li>GitLab</li>
+                <li>JupiterLab</li>
+                <li>Google Colab</li>
+                <li>Visual Studio Code 2</li>
+                <li>GitHub</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>

@@ -25,14 +25,13 @@
   <li>Used to working in international environments, with 9 years of experience working fully in English abroad including writing research and making presentations in public. Native Spanish speaker. Fluent in French.</li>
 </ul>
   </p>
-</div>
 <div align="center">
   <h2>🛠️ Skills</h2>
   <table>
     <tr>
       <td valign="top">
         <h3>Programming</h3>
-        <ul>
+        <ul style="text-align: left;">
           <li>Python</li>
           <li>Bash</li>
           <li>SQL</li>
@@ -41,7 +40,7 @@
       </td>
       <td valign="top">
         <h3>Libraries</h3>
-        <ul>
+        <ul style="text-align: left;">
           <li>Matplotlib</li>
           <li>Plotly</li>
           <li>Seaborn</li>
@@ -55,7 +54,7 @@
       </td>
       <td valign="top">
         <h3>Tools & Platforms</h3>
-        <ul>
+        <ul style="text-align: left;">
           <li>GitLab</li>
           <li>JupiterLab</li>
           <li>Google Colab</li>

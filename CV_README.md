@@ -65,7 +65,6 @@
     </tr>
   </table>
 </div>
-<p>Zürich</p>
 <div>
   <h2>💼 Work Experience</h2>
     <table>

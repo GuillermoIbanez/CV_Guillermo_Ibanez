@@ -26,17 +26,17 @@
 </ul>
   </p>
 <div align="center">
-  <h2>🛠️ Skills</h2>
+  <h2 style="margin-bottom: 5px;">🛠️ Skills</h2>
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td align="center"><h3>Programming</h3></td>
+            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Programming</h3></td>
           </tr>
           <tr>
             <td align="left">
-              <ul>
+              <ul style="margin-top: 5px; padding-top: 0;">
                 <li>Python</li>
                 <li>Bash</li>
                 <li>SQL</li>
@@ -49,11 +49,11 @@
       <td valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td align="center"><h3>Libraries</h3></td>
+            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Libraries</h3></td>
           </tr>
           <tr>
             <td align="left">
-              <ul>
+              <ul style="margin-top: 5px; padding-top: 0;">
                 <li>Matplotlib</li>
                 <li>Plotly</li>
                 <li>Seaborn</li>
@@ -71,11 +71,11 @@
       <td valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td align="center"><h3>Tools & Platforms</h3></td>
+            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Tools & Platforms</h3></td>
           </tr>
           <tr>
             <td align="left">
-              <ul>
+              <ul style="margin-top: 5px; padding-top: 0;">
                 <li>GitLab</li>
                 <li>JupiterLab</li>
                 <li>Google Colab</li>

@@ -29,18 +29,18 @@
   <h2>🛠️ Skills</h2>
   <table>
     <tr>
-      <td valign="top">
+      <td valign="top" style="text-align: left;">
         <h3>Programming</h3>
-        <ul style="text-align: left;">
+        <ul>
           <li>Python</li>
           <li>Bash</li>
           <li>SQL</li>
           <li>HTML</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="top" style="text-align: left;">
         <h3>Libraries</h3>
-        <ul style="text-align: left;">
+        <ul>
           <li>Matplotlib</li>
           <li>Plotly</li>
           <li>Seaborn</li>
@@ -52,9 +52,9 @@
           <li>SciPy</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="top" style="text-align: left;">
         <h3>Tools & Platforms</h3>
-        <ul style="text-align: left;">
+        <ul>
           <li>GitLab</li>
           <li>JupiterLab</li>
           <li>Google Colab</li>
@@ -65,6 +65,7 @@
     </tr>
   </table>
 </div>
+<p>Zürich</p>
 <div>
   <h2>💼 Work Experience</h2>
     <table>

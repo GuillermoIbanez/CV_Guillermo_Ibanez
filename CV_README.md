@@ -27,20 +27,20 @@
   </p>
 <div align="center">
   <h2>🛠️ Skills</h2>
-  <table>
+  <table cellpadding="0" cellspacing="0">
     <tr>
-      <td valign="top">
-        <h3 style="margin-bottom: 5px;">Programming</h3>
-        <ul style="list-style-position: inside; margin-top: 0; padding-left: 0; text-align: left;">
+      <td valign="top" align="left">
+        <h3 style="margin-bottom: 0;">Programming</h3>
+        <ul>
           <li>Python</li>
           <li>Bash</li>
           <li>SQL</li>
           <li>HTML</li>
         </ul>
       </td>
-      <td valign="top">
-        <h3 style="margin-bottom: 5px;">Libraries</h3>
-        <ul style="list-style-position: inside; margin-top: 0; padding-left: 0; text-align: left;">
+      <td valign="top" align="left">
+        <h3 style="margin-bottom: 0;">Libraries</h3>
+        <ul>
           <li>Matplotlib</li>
           <li>Plotly</li>
           <li>Seaborn</li>
@@ -52,9 +52,9 @@
           <li>SciPy</li>
         </ul>
       </td>
-      <td valign="top">
-        <h3 style="margin-bottom: 5px;">Tools & Platforms</h3>
-        <ul style="list-style-position: inside; margin-top: 0; padding-left: 0; text-align: left;">
+      <td valign="top" align="left">
+        <h3 style="margin-bottom: 0;">Tools & Platforms</h3>
+        <ul>
           <li>GitLab</li>
           <li>JupiterLab</li>
           <li>Google Colab</li>

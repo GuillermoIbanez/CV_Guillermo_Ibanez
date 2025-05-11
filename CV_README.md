@@ -26,18 +26,46 @@
 </ul>
   </p>
 <div align="center">
-## 🛠️ Skills
-| **Programming** | **Libraries** | **Tools & Platforms** |
-|:---|:---|:---|
-| • Python | • Matplotlib | • GitLab |
-| • Bash | • Plotly | • JupiterLab |
-| • SQL | • Seaborn | • Google Colab |
-| • HTML | • Pandas | • Visual Studio Code 2 |
-|  | • NumPy | • GitHub |
-|  | • TensorFlow |  |
-|  | • Scikit-learn |  |
-|  | • PyTorch |  |
-|  | • SciPy |  |
+<h2>🛠️ Skills</h2>
+<table>
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td align="center"><b>Libraries</b></td>
+    <td align="center"><b>Tools & Platforms</b></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Python</li>
+        <li>Bash</li>
+        <li>SQL</li>
+        <li>HTML</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Matplotlib</li>
+        <li>Plotly</li>
+        <li>Seaborn</li>
+        <li>Pandas</li>
+        <li>NumPy</li>
+        <li>TensorFlow</li>
+        <li>Scikit-learn</li>
+        <li>PyTorch</li>
+        <li>SciPy</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>GitLab</li>
+        <li>JupiterLab</li>
+        <li>Google Colab</li>
+        <li>Visual Studio Code 2</li>
+        <li>GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
 <div>
   <h2>💼 Work Experience</h2>

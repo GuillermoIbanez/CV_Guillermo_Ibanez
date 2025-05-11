@@ -27,64 +27,40 @@
   </p>
 <div align="center">
   <h2 style="margin-bottom: 5px;">🛠️ Skills</h2>
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
     <tr>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Programming</h3></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
-                <li>Python</li>
-                <li>Bash</li>
-                <li>SQL</li>
-                <li>HTML</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
+      <td style="vertical-align: top; padding: 0 10px;">
+        <div style="text-align: center;"><strong>Programming</strong></div>
+        <ul style="margin-top: 2px; padding-left: 20px; text-align: left;">
+          <li>Python</li>
+          <li>Bash</li>
+          <li>SQL</li>
+          <li>HTML</li>
+        </ul>
       </td>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Libraries</h3></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
-                <li>Matplotlib</li>
-                <li>Plotly</li>
-                <li>Seaborn</li>
-                <li>Pandas</li>
-                <li>NumPy</li>
-                <li>TensorFlow</li>
-                <li>Scikit-learn</li>
-                <li>PyTorch</li>
-                <li>SciPy</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
+      <td style="vertical-align: top; padding: 0 10px;">
+        <div style="text-align: center;"><strong>Libraries</strong></div>
+        <ul style="margin-top: 2px; padding-left: 20px; text-align: left;">
+          <li>Matplotlib</li>
+          <li>Plotly</li>
+          <li>Seaborn</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
+          <li>TensorFlow</li>
+          <li>Scikit-learn</li>
+          <li>PyTorch</li>
+          <li>SciPy</li>
+        </ul>
       </td>
-      <td valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td align="center"><h3 style="margin-top: 0; margin-bottom: 0;">Tools & Platforms</h3></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <ul style="margin-top: 5px; padding-top: 0;">
-                <li>GitLab</li>
-                <li>JupiterLab</li>
-                <li>Google Colab</li>
-                <li>Visual Studio Code 2</li>
-                <li>GitHub</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
+      <td style="vertical-align: top; padding: 0 10px;">
+        <div style="text-align: center;"><strong>Tools & Platforms</strong></div>
+        <ul style="margin-top: 2px; padding-left: 20px; text-align: left;">
+          <li>GitLab</li>
+          <li>JupiterLab</li>
+          <li>Google Colab</li>
+          <li>Visual Studio Code 2</li>
+          <li>GitHub</li>
+        </ul>
       </td>
     </tr>
   </table>

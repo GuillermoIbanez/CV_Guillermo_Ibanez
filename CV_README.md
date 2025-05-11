@@ -34,16 +34,16 @@
     <td align="center"><b>Tools & Platforms</b></td>
   </tr>
   <tr>
-    <td>
-      <ul>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li>Python</li>
         <li>Bash</li>
         <li>SQL</li>
         <li>HTML</li>
       </ul>
     </td>
-    <td>
-      <ul>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li>Matplotlib</li>
         <li>Plotly</li>
         <li>Seaborn</li>
@@ -55,8 +55,8 @@
         <li>SciPy</li>
       </ul>
     </td>
-    <td>
-      <ul>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li>GitLab</li>
         <li>JupiterLab</li>
         <li>Google Colab</li>

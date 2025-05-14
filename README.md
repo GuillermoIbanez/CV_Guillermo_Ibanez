@@ -17,12 +17,14 @@
   <h2>📋 Summary</h2>
   <p>
 <ul>
-  <li>Excellent communication skills in English, including presenting risk assessments and research findings to credit/financial risk committees and large audiences.</li>
-  <li>Proven ability to conduct in-depth research and create comprehensive risk reports from scratch on diverse risk/financial topics for client facing colleagues and senior management.</li>
+  <li>I am passionate about sports with a highly analytical professional experience. Strong foundation in financial analysis, an analytical mindset, and proven data analysis capabilities using Python, seeking a role where I can leverage these skills to gain exposure to both data and business analysis functions, transforming complex information into actionable insights.</li>
+  <li>Experienced in monitoring and analyzing various datasets, identifying key trends and potential risks, and understanding the impact of internal and external factors.</li>
   <li>Data management/analysis and visualization skills using Python programming (including Machine Learning for data segmentation, Natural Language models, AI large models implementation). SQL programming skills and experience using Power BI and Eikon.</li>
+  <li>Skilled in preparing detailed reports and dashboards with KPIs to communicate findings to diverse audiences and support data-driven decision-making.</li>
+   <li>Proven ability to conduct in-depth research, consolidate information from multiple sources, and present analytical views effectively in both written and verbal formats. Possesses strong public speaking and presentation skills.</li>
   <li>Outside-the-box thinker. Big interest to try new approaches on data analysis, presentations content and storytelling to colleagues and other stakeholders.</li>
   <li>Experience planning and coordinating reports with colleagues from different locations and divisions.</li>
-  <li>Used to working in international environments, with 9 years of experience working fully in English abroad including writing research and making presentations in public. Native Spanish speaker. Fluent in French.</li>
+  <li>Used to working in international environments. Native Spanish speaker. Fluent in French.</li>
 </ul>
   </p>
 <div align="center">

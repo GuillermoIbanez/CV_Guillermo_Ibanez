@@ -17,14 +17,19 @@
   <h2>📋 Summary</h2>
   <p>
 <ul>
-  <li>I am passionate about sports with a highly analytical professional experience. Strong foundation in financial analysis, an analytical mindset, and proven data analysis capabilities using Python, seeking a role where I can leverage these skills to gain exposure to both data and business analysis functions, transforming complex information into actionable insights.</li>
-  <li>Experienced in monitoring and analyzing various datasets, identifying key trends and potential risks, and understanding the impact of internal and external factors.</li>
-  <li>Data management/analysis and visualization skills using Python programming (including Machine Learning for data segmentation, Natural Language models, AI large models implementation). SQL programming skills and experience using Power BI and Eikon.</li>
-  <li>Skilled in preparing detailed reports and dashboards with KPIs to communicate findings to diverse audiences and support data-driven decision-making.</li>
-   <li>Proven ability to conduct in-depth research, consolidate information from multiple sources, and present analytical views effectively in both written and verbal formats. Possesses strong public speaking and presentation skills.</li>
-  <li>Outside-the-box thinker. Big interest to try new approaches on data analysis, presentations content and storytelling to colleagues and other stakeholders.</li>
-  <li>Experience planning and coordinating reports with colleagues from different locations and divisions.</li>
-  <li>Used to working in international environments. Native Spanish speaker. Fluent in French.</li>
+<li>Passionate about sports with extensive professional experience in financial and data analytics. Strong foundation in transforming complex information into actionable insights using Python, SQL, Power BI, and Eikon.</li>
+
+<li>Experienced in monitoring diverse datasets to identify key trends, potential risks, and understand the impact of internal and external factors on business outcomes.</li>
+
+<li>Technical proficiency in Python programming, including Machine Learning for data segmentation, Natural Language models, and AI large model implementation.</li>
+
+<li>Skilled in creating detailed reports, KPI dashboards, and presentations that effectively communicate findings to diverse audiences and support data-driven decision-making.</li>
+
+<li>Outside-the-box thinker with a passion for innovative approaches to data analysis, presentation content, and storytelling.</li>
+
+<li>Proven experience coordinating cross-divisional projects and collaborating with colleagues from different international locations.</li>
+
+<li>Comfortable in multicultural environments. Native Spanish speaker. Fluent in French.</li>
 </ul>
   </p>
 <div align="center">

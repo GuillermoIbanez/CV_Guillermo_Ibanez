@@ -82,7 +82,7 @@
     <td valign="middle"><strong>Arthur Weber | Zurich, Switzerland | Automation Project - April 2025 / May 2025</strong></td>
   </tr>
   <tr>
-    <td colspan="2">As part of my Data Science & AI Course (Constructor Academy) that i did in Zurich, i took part in this project. For more details on the project including methodologies and the code used please check the Automation_Project.README and the Projects_README files.
+    <td colspan="2">As part of my Data Science & AI Course (Constructor Academy) that i did in Zurich, i took part in this project. For more details on the project including methodologies and the code used please check the Project-AI_Automation repository.
   </tr>
   <tr>
     <td colspan="2">At Arthur Weber, clients regularly submit lengthy tender documents requesting building materials for their construction projects. These tenders often span hundreds of pages and contain detailed—but often unrelated—descriptions of entire construction processes. Buried within them are the actual product orders: lists of items, quantities, and units. Today, manually parsing and processing these documents to generate client offers is a slow, labor-intensive task.

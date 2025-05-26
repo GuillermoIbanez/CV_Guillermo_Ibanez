@@ -21,7 +21,7 @@
 
 <li>Experienced in monitoring diverse datasets to identify key trends, potential risks, and understand the impact of internal and external factors on business outcomes.</li>
 
-<li>Technical proficiency in Python programming, including Machine Learning for data segmentation, Natural Language models, and AI large model implementation.</li>
+<li>Can program in Python, including Machine Learning for data segmentation, Natural Language models, and AI large model implementation.</li>
 
 <li>Skilled in creating detailed reports, KPI dashboards, and presentations that effectively communicate findings to diverse audiences and support data-driven decision-making.</li>
 

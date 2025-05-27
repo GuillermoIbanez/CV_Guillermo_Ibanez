@@ -16,7 +16,7 @@
   <h2>📋 Summary</h2>
   <p>
 <ul>
-<li>Passionate about sports with professional experience in financial and data analytics. Strong foundation in transforming complex information into actionable insights using Python, SQL, Power BI, Bloomberg and Eikon.</li>
+<li>Professional experience in financial and data analytics. Strong foundation in transforming complex information into actionable insights using Python, SQL, Power BI, Bloomberg and Eikon. I have also gained exposure to HTML and Bash programming languages.</li>
 
 <li>Experienced in monitoring diverse datasets to identify key trends, potential risks, and understand the impact of internal and external factors on business outcomes.</li>
 

@@ -16,7 +16,7 @@
   <h2>📋 Summary</h2>
   <p>
 <ul>
-<li>Passionate about sports with professional experience in financial and data analytics. Strong foundation in transforming complex information into actionable insights using Python, SQL, Power BI, and Eikon.</li>
+<li>Passionate about sports with professional experience in financial and data analytics. Strong foundation in transforming complex information into actionable insights using Python, SQL, Power BI, Bloomberg and Eikon.</li>
 
 <li>Experienced in monitoring diverse datasets to identify key trends, potential risks, and understand the impact of internal and external factors on business outcomes.</li>
 
@@ -28,7 +28,7 @@
 
 <li>Proven experience coordinating cross-divisional projects and collaborating with colleagues from different international locations.</li>
 
-<li>Comfortable in multicultural environments. Native Spanish speaker. Fluent in French.</li>
+<li>Native Spanish speaker. Fluent in French.</li>
 </ul>
   </p>
 <div align="center">

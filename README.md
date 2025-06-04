@@ -68,6 +68,8 @@
         <li>Google Colab</li>
         <li>Visual Studio Code 2</li>
         <li>GitHub</li>
+        <li>Amazon AWS</li>
+        <li>Render</li>
       </ul>
     </td>
   </tr>
